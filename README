@@ -1,0 +1,4 @@
+Here’s what happens now. When the game is over (i.e., when you hit an object), Runner.prototype.gameOver() is called and the action is triggered.
+In this case, you’ll hear a sound, the game stops, and a Game Over message appears. That’s without our code.
+What our code does is replaces the gameOver function with an empty function. 
+That means that instead of hearing the sound, the game stopping, and the message appearing, nothing happens. You just keep running.
