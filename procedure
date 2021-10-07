@@ -1,0 +1,5 @@
+Inspect Element 
+Console Tab
+Paste Command -> var original = Runner.prototype.gameOver
+Paste Command 2 -> Runner.prototype.gameOver = function (){}
+Exit dev tools and initiate the game
